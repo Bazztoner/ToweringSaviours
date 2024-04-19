@@ -117,14 +117,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AndroidMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidMedia",
-			"Enabled": false
-		},
-		{
 			"Name": "CableComponent",
 			"Enabled": false
 		},
